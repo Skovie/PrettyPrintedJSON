@@ -1,4 +1,4 @@
-![Quick Demo](Assets/nppj.gif)
+![Quick Demo](Assets/ppj.gif)
 
 # Test Your JSON api and export to swift
 Testing a JSON api, and the creating swift struct or class, can be a hassle, it´s now easy with PrettyPrintedJSON **All in one**.
