@@ -1,4 +1,4 @@
-![Quick Demo](docs/Assets/nppj.gif)
+![Quick Demo](Assets/nppj.gif)
 
 # Test Your JSON api and export to swift
 Testing a JSON api, and the creating swift struct or class, can be a hassle, it´s now easy with PrettyPrintedJSON **All in one**.
@@ -15,7 +15,7 @@ Testing a JSON api, and the creating swift struct or class, can be a hassle, it�
 ## FAQ
 
 #### I found a bug 🐛
-Too bad, but you're at the right place. I'm all in for fixing that bug! Please open a bug report in this repository.
+Please open a bug report in this repository, and ill get right on it.
 
 #### Where can I follow progress on updates?
 All work in progress is posted on  [BlueSky](https://bsky.app/profile/skovie.bsky.social)
